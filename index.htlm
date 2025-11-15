@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tik Network - Gizlilik Politikası</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 900px; 
+            margin: auto; 
+            padding: 20px; 
+            line-height: 1.6; 
+        }
+        h1 { text-align: center; }
+    </style>
+</head>
+<body>
+
+<h1>Tik Network - Gizlilik Politikası</h1>
+<p>Son güncelleme: 2025</p>
+
+<p>Tik Network uygulamasını kullanarak bu Gizlilik Politikasını kabul etmiş olursunuz. Bu politika, uygulamanın hangi bilgileri topladığını, nasıl kullandığını ve nasıl koruduğunu açıklar.</p>
+
+<h2>Toplanan Bilgiler</h2>
+<p>Tik Network aşağıdaki bilgileri toplar:</p>
+<ul>
+    <li><strong>E-posta adresi</strong></li>
+    <li><strong>Şifre</strong> (güvenli şekilde şifrelenmiş olarak saklanır)</li>
+</ul>
+
+<h2>Bilgilerin Kullanımı</h2>
+<p>Toplanan bilgiler şu amaçlarla kullanılır:</p>
+<ul>
+    <li>Kullanıcı hesabı oluşturmak ve giriş işlemlerini sağlamak</li>
+    <li>Hesap güvenliğini sağlamak</li>
+    <li>Kullanıcı destek hizmetleri sunmak</li>
+</ul>
+
+<h2>Bilgi Güvenliği</h2>
+<p>Tik Network, kullanıcı verilerini yetkisiz erişime karşı korumak için sektör standardı güvenlik önlemleri kullanır. Şifreler asla düz metin olarak saklanmaz.</p>
+
+<h2>Veri Paylaşımı</h2>
+<p>Kullanıcı verileri üçüncü taraflarla paylaşılmaz, satılmaz veya dışarıya aktarılmaz. Kanunen zorunlu durumlar hariç hiçbir şekilde açıklanmaz.</p>
+
+<h2>Üçüncü Taraf Hizmetleri</h2>
+<p>Uygulama reklam veya analiz hizmetleri kullanabilir. Bu hizmetler, cihaz bilgileri gibi anonim veriler toplayabilir.</p>
+
+<h2>Kullanıcı Hakları</h2>
+<p>Kullanıcılar aşağıdaki haklara sahiptir:</p>
+<ul>
+    <li>Hesap bilgilerini görüntüleme</li>
+    <li>Hesap bilgilerini silme talebi</li>
+    <li>Verilerinin nasıl kullanıldığını öğrenme</li>
+</ul>
+
+<h2>İletişim</h2>
+<p>Sorularınız için bizimle iletişime geçebilirsiniz:</p>
+<p><strong>E-posta:</strong> kles7457s@gmail.com</p>
+
+<h2>Politika Değişiklikleri</h2>
+<p>Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanır.</p>
+
+</body>
+</html>
